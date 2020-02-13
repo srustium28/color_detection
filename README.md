@@ -25,6 +25,6 @@ Colorpic.jpg – sample image for experimenting.
 Colors.csv – a file that contains our dataset
 
 Screenshots:
-
 ![Screenshot (4)](https://user-images.githubusercontent.com/58204315/74426733-dc2b7180-4e7b-11ea-9450-7121b531452d.png)
+
 
